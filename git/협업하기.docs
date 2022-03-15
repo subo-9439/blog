@@ -1,0 +1,2 @@
+git clone 주소
+git checkout -b dev origin/dev // 내작업영역에 동기화
